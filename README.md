@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🎓 &nbsp;I'm currently studying Software Engineering at CINEC Campus, Malabe.
-- 👨‍💻 &nbsp;I Worked at Silicon Radon Networks in Kandy as Associate Software Engineer Specialized in Flutter Developer.
+- 👨‍💻 &nbsp;I Worked at Silicon Radon Networks in Kandy as Intern Software Engineer Specialized in Flutter Developer.
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 - 🌱 &nbsp;I'm on track for learning more about Flutter and React.
 - ✍️ &nbsp;In my free time, I pursue Flyer Designing as hobbies/side hustles.
@@ -34,6 +34,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio%20-0078d7.svg?style=for-the-badge&logo=Andorid-studio&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 
 <br>
