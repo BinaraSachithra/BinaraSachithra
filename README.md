@@ -10,7 +10,7 @@
 - 🎓 &nbsp;I'm currently studying Software Engineering at CINEC Campus, Malabe.
 - 👨‍💻 &nbsp;I Worked at Silicon Radon Networks in Kandy as Intern Software Engineer Specialized in Flutter Developer.
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱 &nbsp;I'm on track for learning more about Flutter and React.
+- 🌱 &nbsp;I'm on track for learning more about Flutter.
 - ✍️ &nbsp;In my free time, I pursue Flyer Designing as hobbies/side hustles.
 - ✉️ &nbsp;You can shoot me an email at sachithra.0212@gmail.com! I'll try to respond as soon as I can.<br>
 
