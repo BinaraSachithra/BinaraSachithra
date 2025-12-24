@@ -7,9 +7,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 👨‍💻 &nbsp;I'm currently Working at Rajida Holdings in Nugegoda as Associate Software Engineer Specialized in Flutter Mobile Developer.
-- 👨‍💻 &nbsp;I Worked at Silicon Radon Networks in Kandy as Intern Software Engineer Specialized in Flutter Developer.
-- 🎓 &nbsp;I studied at Software Engineering at CINEC Campus, Malabe.
+- 👨‍💻 &nbsp;I'm currently Working at DiproIT in Nugegoda as Associate Software Engineer Specialized in Flutter Mobile Developer.
+- 👨‍💻 &nbsp;I Worked at SLT Head office as Intern Software Engineer & Silicon Radon Networks in Kandy as Intern Software Engineer Specialized in Flutter Developer.
+- 🎓 &nbsp;I studied at BSc. (Hons) Software Engineering at CINEC Campus, Malabe.
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 - 🌱 &nbsp;I'm on track for learning more about Flutter.
 - ✍️ &nbsp;In my free time, I pursue Flyer Designing as hobbies/side hustles.
