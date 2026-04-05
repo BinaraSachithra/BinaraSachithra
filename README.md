@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Binara Sachithra</h1>
 <h3 align="center">A passionate Flutter developer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=binarasachithra&label=Profile%20views&color=0e75b6&style=flat" alt="binarasachithra" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binarasachithra" alt="binarasachithra" /></a> </p>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
